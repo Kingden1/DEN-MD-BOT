@@ -14,13 +14,13 @@
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/557f1309a0005c937db7e.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
 
 
-  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
+  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/Kingden1/SESSION-SITE/tree/main)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -46,7 +46,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Kingden1/DEN-MD-BOT/fork)
 
 
 
