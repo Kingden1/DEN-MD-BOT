@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> DEN-MD-BOT 💥, A Simple WhatsApp user BOT, Created by Dnking.
+<p align="center"> DEN-MD-BOT 💥, A Simple WhatsApp user BOT, Created by Denking.
 </p>
 <p align="center">
 
