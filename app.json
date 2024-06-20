@@ -1,9 +1,9 @@
 {
-  "name":"BMW-X5MD",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"DEN-MD-BOT",
+  "description":"bot whatsapp développé by DENKING",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "logo":"https://telegra.ph/file/557f1309a0005c937db7e.jpg",
+  "repository":"https://github.com/Kingden1/DEN-MD-BOT",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"DEN-MD-BOT",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "𝑴𝒓 denking"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+254725099642,254725290208"
   },
     "WARN_COUNT":
   {
