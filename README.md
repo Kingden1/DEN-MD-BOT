@@ -80,12 +80,13 @@ HOW TO REACH THE OWNER?
 
 Contributions to *DEN-MD-BOT * are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
+##THANKS TO [JAYDEN-OFFICIAL] 
 
 ## License
 
 The *DEN-MD-BOT* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *DEN-MD-BOT*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+☣Powered by Den tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
