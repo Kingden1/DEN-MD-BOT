@@ -27,7 +27,7 @@
 ## Support 🧧 🧧 🧧 🧧
 ## Join my group for updates 
 <a href="https://chat.whatsapp.com/Cxdepa0BrLd62ZOe8QAE2U" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
